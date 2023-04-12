@@ -13,8 +13,7 @@ const Navbar = () => {
           <img
             src="/images/sid-blog.png"
             className="  h-20 w-50 object-cover dark:invert"
-            alt="Student Integration Logo"
-            // width={50}
+            alt="Sid Blog Logo"
           />
         </Link>
 
